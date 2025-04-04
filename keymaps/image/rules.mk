@@ -4,7 +4,7 @@ OLED_ENABLE = yes
 OLED_DRIVER = ssd1306
 OLED_TRANSPORT = i2c
 
-# LTO_ENABLE = yes          # Giảm kích thước firmware
+LTO_ENABLE = yes          # Giảm kích thước firmware
 REPEAT_KEY_ENABLE = yes     # Phím lặp
 CAPS_WORD_ENABLE = yes      # Caps cho từng từ
 TRI_LAYER_ENABLE = yes      # Ba lớp cùng lúc
