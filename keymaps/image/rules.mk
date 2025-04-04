@@ -11,7 +11,7 @@ TRI_LAYER_ENABLE = yes      # Ba lớp cùng lúc
 COMBO_ENABLE = yes          # Tổ hợp phím
 WPM_ENABLE = yes            # Enable word per minute counter
 
-
+//test commit
 # Tắt các tính năng không dùng
 ifndef GRAVE_ESC_ENABLE
     GRAVE_ESC_ENABLE = no
